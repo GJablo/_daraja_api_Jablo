@@ -45,7 +45,7 @@ This is a Django project that integrates with the M-Pesa Daraja API to enable mo
 1. Clone the repo Using
 
 ```bash
-git clone https://github.com/your-repo/django-mpesa-daraja.git
+git clone https://github.com/GJablo/_daraja_api_Jablo.git
 cd my_site
 ```
 
